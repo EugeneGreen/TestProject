@@ -1,0 +1,12 @@
+.idea/
+out/
+logs/
+build/
+allure-results/
+target/
+
+*.iml
+*.log
+*.class
+*@py.class
+qa.properties
